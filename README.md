@@ -28,4 +28,4 @@ JWT_SECRET=mylocaltestsecret123
 ```
 - Achtung: Dieses Beispiel für `JWT_SECRET` ist nur für lokale Test- und Entwicklungsumgebungen, nicht für produktive Server!
 7. `node server.js` startet den Webserver für das Backend 
-
+8. Im [Frontend](https://github.com/DHBWLoerrach/LectureSchedulerFrontend) können wir uns jetzt als `admin` einloggen.
